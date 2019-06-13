@@ -1,3 +1,32 @@
-.navbar navbar-expand-lg navbar-light bg-light{
-	width: 20px;
+h1{
+	text-align: center;
+}
+.jumbotron{
+	text-align: center;
+	background: #FFD063;
+}
+	
+footer {
+    margin-top: 50px;
+    background-color: #313639;
+    padding: 30px;
+}
+footer a:hover {
+    color: #a8a8a8;
+}
+footer h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color:#0066FF;
+}
+.liststyle {
+    color: #0066FF;
+    padding-left: 10px;
+}
+footer img {
+    margin-right: 5px;
+}
+.copyright {
+    margin-top: 25px;
+    font-size: 0.8em;
 }
